@@ -1,3 +1,3 @@
 Project Demo : https://movie-webpage-by-react-app.netlify.app/
 
-![screencapture-creative-sorbet-96d1b6-netlify-app-2023-06-18-13_06_19](https://github.com/sunil9813/Movie-Webpage/assets/67497228/dcc07634-edd5-48f5-8097-aabfb540b55b)
+![Movie-Webpage-React-master](https://github.com/Nikala11/Movie-Webpage-React/assets/86911025/be760cf2-c9ac-414a-a86d-3629c6fe46bb)
